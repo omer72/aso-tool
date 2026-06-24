@@ -9,20 +9,13 @@ A lightweight App Store ASO keyword research tool. Type a keyword and instantly 
 - **Mine a competitor** — paste an App Store URL or numeric ID; pulls keywords straight from that app's title + description so you can scout each.
 - **8 App Store countries** — including 🇺🇸 US and 🇮🇱 Israel.
 
-Vite + React. Data comes live from Apple's public [iTunes Search API](https://itunes.apple.com/search) via JSONP — no backend, no API keys.
+Single static `index.html`, no build step, no dependencies. All data comes live from Apple's public
+[iTunes Search API](https://itunes.apple.com/search) via JSONP (so it works from any real web origin).
 
-## Develop
+## Run it
 
-```sh
-npm install
-npm run dev      # local dev server with HMR
-npm run build    # production bundle into dist/
-npm run preview  # serve the built bundle locally
-```
-
-Pushes to `master` auto-deploy to GitHub Pages via `.github/workflows/deploy.yml` → https://omer72.github.io/astro/
-
-It will **not** work inside an embedded/sandboxed preview iframe, which blocks outbound requests to Apple.
+Just open `index.html` on any served origin (GitHub Pages, Netlify, `localhost`, or a local `file://`).
+It will **not** work inside an embedded/sandboxed preview iframe, which blocks outbound requests.
 
 ## What it is not
 
