@@ -402,3 +402,132 @@ The data has changed the playbook. Don't launch in US first. Instead:
 3. **Don't write code yet.** Sketch the screen flow. The hardest part of an ADHD app is making it not-overwhelming — get the UI right on paper first.
 4. **Set up the Israel-first launch plan** before you build. Knowing your distribution channel (Israeli ADHD Telegram groups, ADHD UK subreddit) shapes the product.
 5. **Re-scout in 30 days.** The tool's history feature will show the delta. Markets shift.
+
+---
+
+# Round 4 — Compare-8 on "adhd planner"
+
+Scouted 2026-06-25.
+
+## TL;DR
+
+| Market | Difficulty | Label | Median ratings | Title hits | #1 app (ratings) |
+|---|---|---|---|---|---|
+| 🇺🇸 USA | 51 | MEDIUM | 37,704 | 2/10 | Structured (161,157) |
+| 🇮🇱 **Israel** | **29** | **EASY** | **464** | 1/10 | ADHD Daily Planner - Planwoo (**0**) |
+| 🇬🇧 UK | 45 | MEDIUM | 9,558 | 2/10 | Structured (29,176) |
+| 🇨🇦 Canada | 39 | MEDIUM | 1,854 | 2/10 | Planwoo (63) |
+| 🇦🇺 Australia | 40 | MEDIUM | 733 | 3/10 | Structured (14,405) |
+| 🇩🇪 Germany | 35 | MEDIUM | 2,342 | 1/10 | Structured DE (38,256) |
+| 🇫🇷 France | 35 | MEDIUM | 608 | 2/10 | Habit Tracker (7,273) |
+| 🇪🇸 **Spain** | **31** | **EASY** | 2,274 | 0/10 | Daily Planner (6,096) |
+
+**Easiest 3: 🇮🇱 IL (29) · 🇪🇸 ES (31) · 🇩🇪 DE (35).**
+
+Same staged-launch playbook as ADHD focus: **IL → ES → DE → US**. IL #1 has **zero ratings**. Spain has zero apps with the exact phrase in title across the entire top 10.
+
+---
+
+## The competitor to study: Planwoo
+
+The most important finding from this scout. **Planwoo** (developer: Vadzim Shaulouski) shows up at the top of every non-English market:
+
+| Market | Planwoo title | Ratings |
+|---|---|---|
+| 🇮🇱 IL | `ADHD Daily Planner - Planwoo` | 0 |
+| 🇨🇦 CA | `ADHD Daily Planner - Planwoo` | 63 |
+| 🇪🇸 ES | `Planificador Diario - Planwoo` | 8 |
+| 🇩🇪 DE | `ADHS Planer - Planwoo` | 126 |
+| 🇺🇸 US | `ADHD Planner Organizer Planwoo` | 336 |
+
+**Planwoo is doing exactly what I recommended in Round 3:** they've localized into multiple languages and translated the keyword `ADHD planner` in each. They're an indie executing the staged-launch playbook *right now*. They're winning the non-English markets with **virtually no ratings** because nobody else has bothered.
+
+### What this means
+- The playbook works — Planwoo is living proof
+- **They're catchable.** Their German listing has 126 ratings. Their Spanish has 8. Their Israeli has 0. A better-designed app launched into the same markets would outrank them within 60 days.
+- The bar for "winning" non-US ADHD planner is **double-digit ratings + clean ASO**. That's it.
+
+### How to scout Planwoo deeper
+In the Keyword Scout, paste their App Store URL into the "Mine a competitor" box:
+- US listing: search "Planwoo" or use their trackId from the listing
+- That returns Planwoo's indexed keywords, which reveals which terms they title-claim vs which they leak
+
+---
+
+## Israel top 10 — the easiest market
+
+```
+ 1. ADHD Daily Planner - Planwoo (0)
+ 2. Habit Tracker (1,141)
+ 3. TickTick: To-Do List & Calendar (1,015)
+ 4. Structured: Daily Planner Todo (1,342)
+ 5. Tiimo: Daily To-Do List (129)
+ 6. Focus Keeper - Pomodoro Timer (115)
+ 7. Me+ Lifestyle Routine (2,452)
+ 8. Finch: Self-Care Pet (406)
+ 9. Fabulous: Daily Habit Tracker (522)
+10. Daily Planner & To Do List (19)
+```
+
+Only one app with `ADHD` in its title. It has zero ratings. **The market is empty.** 50–100 ratings would put you at #1.
+
+## Spain top 10 — second-easiest
+
+```
+ 1. Daily Planner routine schedule (6,096)
+ 2. Planificador Diario - Planwoo (8)         ← Planwoo, Spanish
+ 3. Me+ Planificador Diario (6,240)
+ 4. TickTick: Listas de tareas (2,142)
+ 5. Structured – Agenda del día (11,854)
+ 6. neurolist: ADHD Organizer + AI (23)
+ 7. Tiimo - Planificadora diaria (791)
+ 8. Daily Planner & To Do List (20)
+ 9. Fabulous: Bienestar y Rutinas (4,401)
+10. Finch: Self-Care Pet (2,406)
+```
+
+Zero apps with "ADHD" in the title rank in the top 5. Planwoo (8 ratings) and neurolist (23 ratings) are the only ADHD-explicit titles, both ranking despite tiny rating counts. **Pure metadata play.**
+
+---
+
+## Combined ADHD focus + ADHD planner play
+
+Both keywords have **the same exploit:** US is competitive but international markets are empty. And both are won by Planwoo-style multi-locale ASO. The two keywords are also natural complements — an ADHD focus timer is the *feature* an ADHD planner needs.
+
+### One app, two keywords, staged rollout
+
+| Phase | Duration | Markets | Targets |
+|---|---|---|---|
+| 1 | M0–M2 | IL, ES | Top 3 for both `adhd focus` and `adhd planner` |
+| 2 | M2–M4 | + DE, AU | Top 5 in 4 markets, ~500 cumulative ratings |
+| 3 | M4–M6 | + UK, CA, FR | Top 5 in 7 markets, ~1,500 cumulative ratings |
+| 4 | M6–M9 | + US | Top 10 with ASA support |
+
+### Localization keyword fields (paste-ready, no spaces, max 100 chars each)
+
+| Locale | Keyword field |
+|---|---|
+| en-US | `focus,planner,timer,executivefunction,tasks,reminders,routine,bodydouble,dopamine` |
+| en-GB | `concentration,organiser,scheduler,calendar,habits,wellness,mindful,productivity` |
+| en-AU | `attention,deficit,study,exam,uni,students,medication,morning,evening,routine` |
+| he-IL | `קשב,ריכוז,תכנון,מטלות,יומן,משימות` *(translate properly with native speaker)* |
+| es-ES | `concentracion,planificador,organizador,horario,tareas,rutina,recordatorios` |
+| de-DE | `konzentration,planer,organisator,aufgaben,erinnerung,routine,fokus` |
+| fr-FR | `concentration,planificateur,organisateur,taches,rappel,routine,attention` |
+| en-CA | `focus,planner,timer,reminder,routine,bodydouble,medication,tasks,executive` |
+
+That's 8 separate 100-char fields → 800 indexed chars across the metadata you control. **Almost nobody does this.**
+
+---
+
+## Updated final ranking — all keywords scouted to date
+
+| Rank | Keyword | US Diff | Best market (diff) | Verdict |
+|---|---|---|---|---|
+| 1 | **adhd focus** | 47 | 🇮🇱 IL (29) | Top opportunity. EASY in 4/8 markets. |
+| 2 | **adhd planner** | 51 | 🇮🇱 IL (29) | Same exploit. Planwoo is the template. |
+| 3 | study timer | 43 | (US only scouted) | Lower TAM, lower LTV |
+| 4 | pomodoro timer | 60 | (US only scouted) | Crowded |
+| 5 | habit tracker | 74 | (US only scouted) | Skip |
+
+**Recommendation stands: build one combined ADHD focus + planner app, launch IL first.**
