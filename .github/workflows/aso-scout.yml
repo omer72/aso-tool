@@ -1,0 +1,83 @@
+name: ASO Scout — parent coach (US)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 1'  # Mondays 09:00 UTC = 12:00 Asia/Jerusalem
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scout
+        run: |
+          python3 <<'PY'
+          import json, math, urllib.request, datetime, pathlib
+          url = 'https://itunes.apple.com/search?term=parent+coach&country=US&entity=software&limit=50'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          data = json.loads(urllib.request.urlopen(req, timeout=30).read())
+          results = data.get('results', [])
+          q = {'parent', 'coach'}
+          def m(t): tl = t.lower(); return all(k in tl for k in q)
+          top = results[:10]
+          ratings = sorted([r.get('userRatingCount', 0) for r in top])
+          med = ratings[len(ratings)//2] if ratings else 0
+          ih = sum(1 for r in top if m(r.get('trackName', '')))
+          tu = ih / 10 if top else 0
+          rs = math.log10(med + 1) / 6
+          diff = round(100 * (0.55 * rs + 0.45 * tu))
+          lbl = 'EASY' if diff < 33 else 'MEDIUM' if diff < 66 else 'HARD'
+          kr = ktitle = None
+          for i, r in enumerate(results, 1):
+              if r.get('trackId') == 6769443099:
+                  kr, ktitle = i, r.get('trackName', '')
+                  break
+          today = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
+          BASE_RANK, BASE_DIFF = 30, 46
+          delta = (BASE_RANK - kr) if kr else None
+          delta_str = f'{delta:+d}' if delta is not None else 'n/a'
+          rank_str = f'#{kr}' if kr else 'NOT in top 50'
+
+          p = pathlib.Path('scout-log.md')
+          if not p.exists():
+              p.write_text('# Scout log — parent coach (US)\n\nBaseline 2026-06-25: Kidsit #30, difficulty 46.\n')
+          with p.open('a') as f:
+              f.write(f'\n## {today}\n')
+              f.write(f'- Kidsit rank: {rank_str} (Δ {delta_str} vs baseline)\n')
+              f.write(f'- Difficulty: {diff} ({lbl}) — baseline {BASE_DIFF}\n')
+              f.write(f'- Median ratings top-10: {med}\n')
+              f.write(f'- Title hits top-10: {ih}/10\n')
+              f.write(f'- Title indexed as: {ktitle or "n/a"}\n')
+
+          pathlib.Path('slack.json').write_text(json.dumps({
+              'text': (
+                  f'*Parent Coach scout — {today}*\n'
+                  f'Kidsit rank: {rank_str} (was #{BASE_RANK}, Δ {delta_str})\n'
+                  f'Difficulty: {diff} ({lbl}) — baseline {BASE_DIFF}\n'
+                  f'Title indexed as: {ktitle or "n/a"}\n'
+                  f'Log: scout-log.md'
+              )
+          }))
+          PY
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scout-log.md
+          git diff --staged --quiet || (git commit -m "Scout $(date -u +%Y-%m-%d)" && git push)
+
+      - name: Notify Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          if [ -n "$SLACK_WEBHOOK_URL" ]; then
+            curl -sS -X POST -H 'Content-Type: application/json' --data @slack.json "$SLACK_WEBHOOK_URL"
+          else
+            echo "No SLACK_WEBHOOK_URL secret set — skipping Slack notify"
+          fi
