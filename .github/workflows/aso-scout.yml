@@ -58,6 +58,33 @@ jobs:
                   f.write(f'- Title hits top-10: {ih}/10\n')
                   f.write(f'- Title indexed as: {ktitle or "n/a"}\n')
 
+          # Regenerate Mermaid chart block from all entries
+          import re
+          content = p.read_text()
+          entries = re.findall(r'^## (\d{4}-\d{2}-\d{2})\n- Kidsit rank: (#\d+|NOT in top 50)', content, re.M)
+          pairs = sorted({(d, 51 if r == 'NOT in top 50' else int(r[1:])) for d, r in entries})
+          dates_str = ', '.join(f'"{d}"' for d, _ in pairs)
+          ranks_str = ', '.join(str(r) for _, r in pairs)
+          chart = (
+              '```mermaid\n'
+              'xychart-beta\n'
+              '    title "Kidsit rank for \'parent coach\' (US) — lower is better"\n'
+              f'    x-axis [{dates_str}]\n'
+              '    y-axis "Rank" 1 --> 50\n'
+              f'    line [{ranks_str}]\n'
+              '```'
+          )
+          CS, CE = '<!-- chart-start -->', '<!-- chart-end -->'
+          block = f'{CS}\n{chart}\n{CE}'
+          if CS in content and CE in content:
+              content = re.sub(re.escape(CS) + r'.*?' + re.escape(CE), block, content, flags=re.DOTALL)
+          else:
+              content = content.replace(
+                  'Baseline 2026-06-25: Kidsit #30, difficulty 46.\n',
+                  f'Baseline 2026-06-25: Kidsit #30, difficulty 46.\n\n{block}\n',
+              )
+          p.write_text(content)
+
           pathlib.Path('slack.json').write_text(json.dumps({
               'text': (
                   f'*Parent Coach scout — {today}*\n'
