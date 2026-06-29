@@ -19,16 +19,16 @@ Neither is the cleanest "weak-tail" opportunity. **The smaller adjacents below a
 
 | # | Title | Dev | Ratings | Avg | Price | In title? |
 |---|-------|-----|---------|-----|-------|-----------|
-| 1 | Focus Keeper - Pomodoro Timer | PIXO Incorporation | 31,439 | 4.8 | Free | ✓ |
-| 2 | FocusPomo · Pomodoro Timer | FocusPomo Apps | 7,233 | 4.8 | Free | ✓ |
-| 3 | Pomodoro — Focus Timer | Murodjon Sattorov | **11** | 4.5 | Free | ✓ |
-| 4 | Pomodoro - Focus Timer | DelightApps Corp. | 10,754 | 4.7 | Free | ✓ |
-| 5 | Focus To-Do: Focus Timer&Tasks | Shenzhen Tomato | 14,496 | 4.8 | Free | ✗ |
-| 6 | Flora - Green Focus | AppFinca | 82,341 | 4.8 | Free | ✗ |
-| 7 | Focus Friend, by Hank Green | B-Tech Consulting | 4,082 | 4.7 | Free | ✗ |
-| 8 | Flow: Focus & Pomodoro Timer | Yugen GmbH | 1,722 | 4.8 | Free | ✓ |
-| 9 | Forest: Focus for Productivity | SEEKRTECH | 48,580 | 4.8 | Free | ✗ |
-| 10 | Study Bunny: Focus Timer | Justin Patrick Silan | 20,784 | 4.7 | Free | ✗ |
+| 1 | [Focus Keeper - Pomodoro Timer](https://apps.apple.com/us/app/id867374917) | PIXO Incorporation | 31,439 | 4.8 | Free | ✓ |
+| 2 | [FocusPomo · Pomodoro Timer](https://apps.apple.com/us/app/id1528322796) | FocusPomo Apps | 7,233 | 4.8 | Free | ✓ |
+| 3 | [Pomodoro — Focus Timer](https://apps.apple.com/us/app/id6754793448) | Murodjon Sattorov | **11** | 4.5 | Free | ✓ |
+| 4 | [Pomodoro - Focus Timer](https://apps.apple.com/us/app/id1265128036) | DelightApps Corp. | 10,754 | 4.7 | Free | ✓ |
+| 5 | [Focus To-Do: Focus Timer&Tasks](https://apps.apple.com/us/app/id966057213) | Shenzhen Tomato | 14,496 | 4.8 | Free | ✗ |
+| 6 | [Flora - Green Focus](https://apps.apple.com/us/app/id1225155794) | AppFinca | 82,341 | 4.8 | Free | ✗ |
+| 7 | [Focus Friend, by Hank Green](https://apps.apple.com/us/app/id6742278016) | B-Tech Consulting | 4,082 | 4.7 | Free | ✗ |
+| 8 | [Flow: Focus & Pomodoro Timer](https://apps.apple.com/us/app/id1423210932) | Yugen GmbH | 1,722 | 4.8 | Free | ✓ |
+| 9 | [Forest: Focus for Productivity](https://apps.apple.com/us/app/id866450515) | SEEKRTECH | 48,580 | 4.8 | Free | ✗ |
+| 10 | [Study Bunny: Focus Timer](https://apps.apple.com/us/app/id1478345385) | Justin Patrick Silan | 20,784 | 4.7 | Free | ✗ |
 
 - **Median ratings (top 10):** ~12,600
 - **Title usage:** 5/10
@@ -50,16 +50,16 @@ Top-5 is out of reach without big paid acquisition. **Realistic target: #6–10 
 
 | # | Title | Dev | Ratings | Avg | Price | In title? |
 |---|-------|-----|---------|-----|-------|-----------|
-| 1 | Habit Tracker | Inner Grow Limited | **142,773** | 4.8 | Free | ✓ |
-| 2 | Habit Tracker - HabitKit | Sebastian Roehl | 2,184 | 4.9 | Free | ✓ |
-| 3 | Onrise: Habit Tracker & Focus | Maximilian Munker | 2,449 | 4.8 | Free | ✓ |
-| 4 | Productive - Habit Tracker | Mosaic S.r.l. | 91,114 | 4.6 | Free | ✓ |
-| 5 | Finch: Self-Care Pet | Finch Care | **717,853** | 4.9 | Free | ✗ |
-| 6 | Habit Tracker - Daily Goals | Uniqo Lab | 3,023 | 4.9 | Free | ✓ |
-| 7 | Habit Rabbit: Habit Tracker | Justin Patrick Silan | 8,354 | 4.7 | Free | ✓ |
-| 8 | Routine Planner, Habit Tracker | Routinery | 17,089 | 4.7 | Free | ✓ |
-| 9 | Atoms - from Atomic Habits | Atomic Development | 10,472 | 4.8 | Free | ✗ |
-| 10 | Strides: Habit Tracker + Goals | Goals LLC | 19,011 | 4.8 | Free | ✓ |
+| 1 | [Habit Tracker](https://apps.apple.com/us/app/id1438388363) | Inner Grow Limited | **142,773** | 4.8 | Free | ✓ |
+| 2 | [Habit Tracker - HabitKit](https://apps.apple.com/us/app/id6443918070) | Sebastian Roehl | 2,184 | 4.9 | Free | ✓ |
+| 3 | [Onrise: Habit Tracker & Focus](https://apps.apple.com/us/app/id1547137474) | Maximilian Munker | 2,449 | 4.8 | Free | ✓ |
+| 4 | [Productive - Habit Tracker](https://apps.apple.com/us/app/id983826477) | Mosaic S.r.l. | 91,114 | 4.6 | Free | ✓ |
+| 5 | [Finch: Self-Care Pet](https://apps.apple.com/us/app/id1528595748) | Finch Care | **717,853** | 4.9 | Free | ✗ |
+| 6 | [Habit Tracker - Daily Goals](https://apps.apple.com/us/app/id6480042457) | Uniqo Lab | 3,023 | 4.9 | Free | ✓ |
+| 7 | [Habit Rabbit: Habit Tracker](https://apps.apple.com/us/app/id1522121879) | Justin Patrick Silan | 8,354 | 4.7 | Free | ✓ |
+| 8 | [Routine Planner, Habit Tracker](https://apps.apple.com/us/app/id1450486923) | Routinery | 17,089 | 4.7 | Free | ✓ |
+| 9 | [Atoms - from Atomic Habits](https://apps.apple.com/us/app/id6474421906) | Atomic Development | 10,472 | 4.8 | Free | ✗ |
+| 10 | [Strides: Habit Tracker + Goals](https://apps.apple.com/us/app/id672401817) | Goals LLC | 19,011 | 4.8 | Free | ✓ |
 
 - **Median ratings (top 10):** ~13,800 — but skewed: #5 alone has 717k.
 - **Title usage:** 8/10
@@ -69,7 +69,7 @@ Top-5 is out of reach without big paid acquisition. **Realistic target: #6–10 
 ### Signal read
 - **Whales everywhere:** #1 (143k), #4 (91k), #5 (718k!), #12 (161k), #13 (88k), #15 (242k). This is multiple verticals fighting in one keyword.
 - **No weak tail.** Even the #2 spot (2k ratings) is hard-won — that's a developer who broke in with strong design + word-of-mouth (HabitKit is well-known in indie circles).
-- **Brand crowding:** "Atomic Habits" official app, "Streaks" (paid $5.99), "Fabulous" — multiple known brands. Competing on brand is impossible here.
+- **Brand crowding:** "Atomic Habits" official app, "[Streaks](https://apps.apple.com/us/app/id963034692)" (paid $5.99), "[Fabulous](https://apps.apple.com/us/app/id1203637303)" — multiple known brands. Competing on brand is impossible here.
 - **Mixed metaphor competitors:** Finch (gamified pet) and Atoms (book-branded) and Routinery (timer-based) all rank in the same keyword. The category is "anything self-improvement adjacent."
 
 ### Verdict
@@ -151,16 +151,16 @@ Scouted 2026-06-25. Both come back **MEDIUM**, but with very different competiti
 
 | # | Title | Dev | Ratings | In title? |
 |---|-------|-----|---------|-----------|
-| 1 | Focus Friend, by Hank Green | B-Tech Consulting | 4,082 | ✗ (no "study") |
-| 2 | Flora - Green Focus | AppFinca | 82,341 | ✗ |
-| 3 | Study Bunny: Focus Timer | Justin Patrick Silan | 20,784 | ✓ |
-| 4 | Focus timer - time keeper | 书敏 贾 | 1,815 | ✗ |
-| 5 | Focus Keeper - Pomodoro Timer | PIXO | 31,439 | ✗ |
-| 6 | TimerTiTi - Timer for Study | Minsang Kang | **23** | ✓ |
-| 7 | Focus Traveller - Flow Timer | WEI JEN CHEN | 3,790 | ✗ |
-| 8 | FocusPomo · Pomodoro Timer | FocusPomo Apps | 7,233 | ✗ |
-| 9 | Forest: Focus for Productivity | SEEKRTECH | 48,580 | ✗ |
-| 10 | Study Time With Rain: Pomodoro | Yoonjik Cho | 742 | ✗ |
+| 1 | [Focus Friend, by Hank Green](https://apps.apple.com/us/app/id6742278016) | B-Tech Consulting | 4,082 | ✗ (no "study") |
+| 2 | [Flora - Green Focus](https://apps.apple.com/us/app/id1225155794) | AppFinca | 82,341 | ✗ |
+| 3 | [Study Bunny: Focus Timer](https://apps.apple.com/us/app/id1478345385) | Justin Patrick Silan | 20,784 | ✓ |
+| 4 | [Focus timer - time keeper](https://apps.apple.com/us/app/id1239133490) | 书敏 贾 | 1,815 | ✗ |
+| 5 | [Focus Keeper - Pomodoro Timer](https://apps.apple.com/us/app/id867374917) | PIXO | 31,439 | ✗ |
+| 6 | [TimerTiTi - Timer for Study](https://apps.apple.com/us/app/id1519159240) | Minsang Kang | **23** | ✓ |
+| 7 | [Focus Traveller - Flow Timer](https://apps.apple.com/us/app/id1559730367) | WEI JEN CHEN | 3,790 | ✗ |
+| 8 | [FocusPomo · Pomodoro Timer](https://apps.apple.com/us/app/id1528322796) | FocusPomo Apps | 7,233 | ✗ |
+| 9 | [Forest: Focus for Productivity](https://apps.apple.com/us/app/id866450515) | SEEKRTECH | 48,580 | ✗ |
+| 10 | [Study Time With Rain: Pomodoro](https://apps.apple.com/us/app/id6465894484) | Yoonjik Cho | 742 | ✗ |
 
 - **Median ratings (top 10):** 5,658
 - **Title usage:** 2/10 — most ranking apps don't even have "study" in the title
@@ -174,7 +174,7 @@ A student-targeted app with the title `Study Timer` and decent execution would i
 
 ### Wedge angles
 
-- **Group study mode** (YPT does this at #14 with 1.5k ratings — proves demand)
+- **Group study mode** ([YPT](https://apps.apple.com/us/app/id1441909643) does this at #14 with 1.5k ratings — proves demand)
 - **Subject tracker built in** (log time per subject, see weekly heatmap)
 - **Parent dashboard** — pay-the-parent monetization, especially in Asian markets
 - **Exam countdown integration** — "33 days until SAT" + study timer
@@ -189,22 +189,22 @@ Still 100% free upfront. Subscription is the model. **TAM is smaller than produc
 
 | # | Title | Dev | Ratings | In title? |
 |---|-------|-----|---------|-----------|
-| 1 | FocusBrain: 8D ADHD Focus Music | iMobLife | **95** | ✓ |
-| 2 | Focus Friend, by Hank Green | B-Tech Consulting | 4,082 | ✗ |
-| 3 | Flora - Green Focus | AppFinca | 82,341 | ✗ |
-| 4 | Cat On Chair: ADHD Focus | Cat On Desk Design | **239** | ✓ |
-| 5 | Focus Keeper - Pomodoro Timer | PIXO | 31,439 | ✗ |
-| 6 | Advance – Language Learning | Tornike Pirtakhia | **2** | ✗ |
-| 7 | Endel: Focus & Sleep Sounds | Endel Sound | 32,996 | ✗ |
-| 8 | Forest: Focus for Productivity | SEEKRTECH | 48,580 | ✗ |
-| 9 | one sec | screen time + focus | riedel.wtf | 23,034 | ✗ |
-| 10 | Collegia : Academics Manager | Sawan Sawan | **0** | ✗ |
+| 1 | [FocusBrain: 8D ADHD Focus Music](https://apps.apple.com/us/app/id1569534844) | iMobLife | **95** | ✓ |
+| 2 | [Focus Friend, by Hank Green](https://apps.apple.com/us/app/id6742278016) | B-Tech Consulting | 4,082 | ✗ |
+| 3 | [Flora - Green Focus](https://apps.apple.com/us/app/id1225155794) | AppFinca | 82,341 | ✗ |
+| 4 | [Cat On Chair: ADHD Focus](https://apps.apple.com/us/app/id6746562271) | Cat On Desk Design | **239** | ✓ |
+| 5 | [Focus Keeper - Pomodoro Timer](https://apps.apple.com/us/app/id867374917) | PIXO | 31,439 | ✗ |
+| 6 | [Advance – Language Learning](https://apps.apple.com/us/app/id6752962049) | Tornike Pirtakhia | **2** | ✗ |
+| 7 | [Endel: Focus & Sleep Sounds](https://apps.apple.com/us/app/id1346247457) | Endel Sound | 32,996 | ✗ |
+| 8 | [Forest: Focus for Productivity](https://apps.apple.com/us/app/id866450515) | SEEKRTECH | 48,580 | ✗ |
+| 9 | [one sec](https://apps.apple.com/us/app/id1532875441) | screen time + focus | riedel.wtf | 23,034 | ✗ |
+| 10 | [Collegia : Academics Manager](https://apps.apple.com/us/app/id6757691482) | Sawan Sawan | **0** | ✗ |
 
 Plus notably in #11–18:
-- #11 **Inflow - Manage Your ADHD** (5,575 ratings) — major ADHD-targeted player
-- #14 **Tiimo: To Do List & AI Planner** (17,611 ratings) — ADHD-focused planner
-- #15 **Clarify: ADHD Organizer, Timer** (2,706 ratings)
-- #17 **Llama Life** (113 ratings) — well-known indie ADHD app
+- #11 **[Inflow - Manage Your ADHD](https://apps.apple.com/us/app/id1528183849)** (5,575 ratings) — major ADHD-targeted player
+- #14 **[Tiimo: To Do List & AI Planner](https://apps.apple.com/us/app/id1480220328)** (17,611 ratings) — ADHD-focused planner
+- #15 **[Clarify: ADHD Organizer, Timer](https://apps.apple.com/us/app/id1670958524)** (2,706 ratings)
+- #17 **[Llama Life](https://apps.apple.com/us/app/id6454469750)** (113 ratings) — well-known indie ADHD app
 
 - **Median ratings (top 10):** 13,558 (skewed by Flora/Forest/Endel — general focus apps)
 - **Title usage:** 2/10
@@ -212,7 +212,7 @@ Plus notably in #11–18:
 
 ### Signal read
 
-**This is a misranking goldmine.** The actual ADHD-targeted apps (Inflow, Tiimo, Clarify, Llama Life) sit in #11–17 because Apple's relevance engine is currently surfacing general focus apps at the top. Two of the top 4 ("FocusBrain", "Cat On Chair") have **95 and 239 ratings** respectively — they ranked by having "ADHD" in the title.
+**This is a misranking goldmine.** The actual ADHD-targeted apps ([Inflow](https://apps.apple.com/us/app/id1528183849), [Tiimo](https://apps.apple.com/us/app/id1480220328), [Clarify](https://apps.apple.com/us/app/id1670958524), Llama Life) sit in #11–17 because Apple's relevance engine is currently surfacing general focus apps at the top. Two of the top 4 ("FocusBrain", "Cat On Chair") have **95 and 239 ratings** respectively — they ranked by having "ADHD" in the title.
 
 An app with `ADHD Focus` literally in the title and decent ASO would probably break into the top 5 inside 60 days.
 
@@ -275,19 +275,19 @@ Scouted 2026-06-25.
 
 | # | Title | Dev | Ratings | In title? |
 |---|-------|-----|---------|-----------|
-| 1 | Structured: Daily Planner Todo | unorderly GmbH | 161,157 | ✗ |
-| 2 | **ADHD Planner Organizer Planwoo** | Vadzim Shaulouski | **336** | ✓ |
-| 3 | Daily Planner & To Do List | jinal alagiya | 9,386 | ✗ |
-| 4 | Tiimo: To Do List & AI Planner | tiimo ApS | 17,611 | ✓ (tokens) |
-| 5 | Habit Tracker | Inner Grow Limited | 142,773 | ✗ |
-| 6 | Focus Keeper - Pomodoro Timer | PIXO | 31,439 | ✗ |
-| 7 | InControl - ADHD Daily Planner | Ankur Chauhan | **35** | ✓ |
-| 8 | Finch: Self-Care Pet | Finch Care | 717,853 | ✗ |
-| 9 | TickTick: To-Do List & Calendar | Appest | 43,969 | ✗ |
-| 10 | Me+ Lifestyle Routine | ENERJOY | 242,329 | ✗ |
+| 1 | [Structured: Daily Planner Todo](https://apps.apple.com/us/app/id1499198946) | unorderly GmbH | 161,157 | ✗ |
+| 2 | **[ADHD Planner Organizer Planwoo](https://apps.apple.com/us/app/id6497716500)** | Vadzim Shaulouski | **336** | ✓ |
+| 3 | [Daily Planner & To Do List](https://apps.apple.com/us/app/id6472804752) | jinal alagiya | 9,386 | ✗ |
+| 4 | [Tiimo: To Do List & AI Planner](https://apps.apple.com/us/app/id1480220328) | tiimo ApS | 17,611 | ✓ (tokens) |
+| 5 | [Habit Tracker](https://apps.apple.com/us/app/id1438388363) | Inner Grow Limited | 142,773 | ✗ |
+| 6 | [Focus Keeper - Pomodoro Timer](https://apps.apple.com/us/app/id867374917) | PIXO | 31,439 | ✗ |
+| 7 | [InControl - ADHD Daily Planner](https://apps.apple.com/us/app/id6751820814) | Ankur Chauhan | **35** | ✓ |
+| 8 | [Finch: Self-Care Pet](https://apps.apple.com/us/app/id1528595748) | Finch Care | 717,853 | ✗ |
+| 9 | [TickTick: To-Do List & Calendar](https://apps.apple.com/us/app/id626144601) | Appest | 43,969 | ✗ |
+| 10 | [Me+ Lifestyle Routine](https://apps.apple.com/us/app/id1596403446) | ENERJOY | 242,329 | ✗ |
 
 Notably outside top 10:
-- #12 **neurolist: AI Planner for ADHD** — 859 ratings
+- #12 **[neurolist: AI Planner for ADHD](https://apps.apple.com/us/app/id6468689182)** — 859 ratings
 - #14 **ADHD Organizer, Daily Planner** — 1,164 ratings
 - #16 ADHD Lifehacks For Adults Pro — 477 ratings
 
@@ -297,7 +297,7 @@ Notably outside top 10:
 
 ### Signal read
 
-**Same misranking pattern as adhd focus, but stronger.** The top 5 has Structured (161k), Habit Tracker (143k), Focus Keeper (31k), Finch (718k) — all general productivity apps that aren't ADHD-targeted. The truly ADHD-named planners (Planwoo, InControl, neurolist, NOTA, ADHD Lifehacks) all sit between **35 and 1,164 ratings**. Nobody has consolidated this niche.
+**Same misranking pattern as adhd focus, but stronger.** The top 5 has Structured (161k), Habit Tracker (143k), Focus Keeper (31k), Finch (718k) — all general productivity apps that aren't ADHD-targeted. The truly ADHD-named planners (Planwoo, InControl, [neurolist](https://apps.apple.com/us/app/id6468689182), NOTA, ADHD Lifehacks) all sit between **35 and 1,164 ratings**. Nobody has consolidated this niche.
 
 An app titled exactly `ADHD Planner` with clean ASO + 200 ratings could realistically take **#2 or #3** inside 90 days.
 

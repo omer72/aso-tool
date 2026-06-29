@@ -2,7 +2,7 @@
 
 US App Store · scouted 2026-06-29 · 60 keywords swept · pattern: single-purpose AI advisor app, paste-and-go ASO, weak-tail keyword.
 
-The Kidsit recipe is reproducible:
+The [Kidsit](https://apps.apple.com/us/app/id6769443099) recipe is reproducible:
 1. Pick a keyword where the top 10 has a **weak rating tail** (most #1 apps with <500 ratings).
 2. Title = `<Keyword> Coach AI: <Brand>` (or similar exact-match-first).
 3. Subtitle = 27 chars of adjacent terms.

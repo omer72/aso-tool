@@ -1,6 +1,6 @@
 # Kidsit AI — ASO plan for "parent coach"
 
-**Current rank:** #28 (US) · **App:** Kidsit AI - Parent Coach (id 6769443099) · **Ratings:** 1 · **Released:** 2026-05-20 · **Last update:** 2026-06-15
+**Current rank:** #28 (US) · **App:** [Parent Coach AI: Kidsit](https://apps.apple.com/us/app/id6769443099) (id 6769443099) · **Ratings:** 1 · **Released:** 2026-05-20 · **Last update:** 2026-06-15
 
 ---
 

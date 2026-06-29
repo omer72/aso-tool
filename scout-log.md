@@ -1,5 +1,7 @@
 # Scout log — parent coach (US)
 
+App: [Parent Coach AI: Kidsit](https://apps.apple.com/us/app/id6769443099) (id 6769443099)
+
 Baseline 2026-06-25: Kidsit #30, difficulty 46.
 
 <!-- chart-start -->
