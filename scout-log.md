@@ -8,9 +8,9 @@ Baseline 2026-06-25: Kidsit #30, difficulty 46.
 ```mermaid
 xychart-beta
     title "Kidsit rank for 'parent coach' (US) — lower is better"
-    x-axis ["2026-06-25", "2026-06-29", "2026-07-06", "2026-07-13", "2026-07-20", "2026-07-27", "2026-08-03", "2026-08-10", "2026-08-17", "2026-08-24", "2026-08-31", "2026-09-07"]
+    x-axis ["2026-06-25", "2026-06-29", "2026-07-06", "2026-07-13", "2026-07-20", "2026-07-27", "2026-08-03", "2026-08-10", "2026-08-17", "2026-08-24", "2026-08-31", "2026-09-07", "2026-09-14"]
     y-axis "Rank" 1 --> 50
-    line [30, 12, 7, 11, 12, 51, 24, 12, 13, 11, 8, 8]
+    line [30, 12, 7, 11, 12, 51, 24, 12, 13, 11, 8, 8, 8]
 ```
 <!-- chart-end -->
 
@@ -92,6 +92,13 @@ xychart-beta
 - Title indexed as: Parent Coach AI: Kidsit
 
 ## 2026-09-07
+- Kidsit rank: #8 (Δ +22 vs baseline)
+- Difficulty: 46 (MEDIUM) — baseline 46
+- Median ratings top-10: 3
+- Title hits top-10: 9/10
+- Title indexed as: Parent Coach AI: Kidsit
+
+## 2026-09-14
 - Kidsit rank: #8 (Δ +22 vs baseline)
 - Difficulty: 46 (MEDIUM) — baseline 46
 - Median ratings top-10: 3
